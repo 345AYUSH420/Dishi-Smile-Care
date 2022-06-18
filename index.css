@@ -1,0 +1,178 @@
+
+html{
+    scroll-behavior: smooth;
+}
+
+
+h1,h2,h3,h4,h5,a{
+    
+    font-family: 'Red Hat Display', sans-serif;
+}
+p{
+    font-family: 'Montserrat Alternates', sans-serif;
+
+}
+.container-fluid{
+    background-color:white;
+    /* height: 100px; */
+}
+.navbar{
+    margin-bottom: 26px;
+  
+}
+.title img{
+    width: 50%;
+    /* height: 50%; */
+}
+#about-image{
+    height: 100%;
+    width: 82%;
+    margin-left: 56px;
+}
+.row
+{
+    margin: 100px;
+    text-align:left;
+}
+.navbar-brand{
+    margin-left: 10px;
+    padding: 10px;
+    font-size: 2.8rem;
+    color: red;
+  
+}
+.navbar-brand:hover{
+    margin-left: 10px;
+    padding: 10px;
+    font-size: 2.8rem;
+    color: red;
+}
+.navbar-nav{
+    margin-right: 65px;
+    
+}
+.nav-link{
+    margin: 10px;
+    font-size: 1.3rem;
+    color: black;
+}
+.nav-link:hover{
+    margin: 10px;
+    font-size: 1.3rem;
+    color: black;
+    background-color: red;
+   border: 2px solid black;
+   border-radius: 5px;
+}
+#carouselimages{
+    height: 700px;
+}
+
+.carousel-control-next-icon:hover{
+  
+    background-color: black;
+    border-radius: 80%;
+    width:50px;
+    height: 50px;
+}
+.carousel-control-prev-icon:hover{
+    background-color: black;
+    border-radius: 80%;
+    width:50px;
+    height: 50px;
+}
+
+.title-image{
+margin: 15px;
+padding: 38px;
+}
+#logo{
+    width: 7%;
+    margin-left: 10px;
+}
+.title-heading{
+    color:white;
+    font-size: 2.8rem;
+}
+#content-heading{
+    margin-bottom: 25px;
+    margin-right: 100px;
+}
+.custom-color{
+    border: 3px solid black;
+}
+.custom-clr{
+    background-image: url("data:image/svg+xml;charset=utf8,%3Csvg viewBox='0 0 32 32' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath stroke='rgba(0,0,0, 0.5)' stroke-width='2' stroke-linecap='round' stroke-miterlimit='10' d='M4 8h24M4 16h24M4 24h24'/%3E%3C/svg%3E");
+
+}
+
+
+
+.ctf
+{
+    background-color: rgb(114, 196, 232);
+    text-align: center;
+}
+.card-img-top{
+    max-height: 420px;  
+    width: 350px;
+    margin: auto;
+    padding: 16px;
+    margin-top: 15px;
+    padding-bottom: 3px;
+
+}   
+   
+.card{
+   margin: auto;
+   background-color: rgb(229, 207, 178);
+   height: auto;
+   margin-bottom: 100px;
+   
+}
+.card:hover{
+   margin: auto;
+   background-color: rgb(229, 207, 178);
+   height: auto;
+   margin-bottom: 100px;
+   border: 7px solid black;
+   
+}
+.card-header
+{
+    text-align: center;
+}
+.col-md-12{
+    width: 35%;
+}
+.about-section{
+    padding-top: 34px;
+}
+#abtpara{
+    margin-top: 16px;
+    margin-bottom: 16px;
+}
+
+#abtheading{
+    margin-top: 15px;
+}
+#abtheading:hover{
+    margin-top: 15px;
+  font-size: 2rem;
+  
+}
+.col-sm-12{
+    width: 41%;
+}
+#contact{
+    padding: 100px;
+    text-align: center;
+}
+.footerimages
+{
+    margin: 15px;
+}
+.phone{
+    text-decoration: none;
+    color: black;
+}
